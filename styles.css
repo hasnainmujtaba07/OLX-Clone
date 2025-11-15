@@ -542,7 +542,7 @@ input::placeholder {
     cursor: pointer;
 }
 
-.social-img1{
+.social-img{
     height: 60%;
     width: 60%;
     margin: 8px 0px 0px 8px;
@@ -553,7 +553,7 @@ input::placeholder {
     color: lightgrey;
 }
 
-.social-img2{
+.social-img1{
     height: 60%;
     width: 60%;
     margin: 8px 0px 0px 7px;
