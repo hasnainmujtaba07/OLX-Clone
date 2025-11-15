@@ -554,9 +554,15 @@ input::placeholder {
 }
 
 .social-img1{
-    height: 60%;
-    width: 60%;
+    height: auto;
+    max-width: 60%;
     margin: 8px 0px 0px 7px;
+}
+
+.social-img2{
+    height: auto;
+    max-width: 30px;
+    margin: 8px 0px 0px 4px;
 }
 
 .footer2{
